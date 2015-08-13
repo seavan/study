@@ -1,0 +1,9 @@
+﻿Build started 09.08.2015 01:29:06.
+     1>Project "F:\Projects\study\karger_mincut\karger_mincut.vcxproj" on node 3 (Build target(s)).
+     1>Link:
+         karger_mincut.vcxproj -> F:\Projects\study\merge_sort_test\Debug\short_karger.exe
+     1>Done Building Project "F:\Projects\study\karger_mincut\karger_mincut.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

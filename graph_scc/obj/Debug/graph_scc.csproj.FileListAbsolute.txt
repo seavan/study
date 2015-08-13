@@ -1,0 +1,14 @@
+F:\Projects\study\graph_scc\bin\Debug\graph_scc.exe
+F:\Projects\study\graph_scc\bin\Debug\graph_scc.pdb
+F:\Projects\study\graph_scc\obj\Debug\graph_scc.csprojResolveAssemblyReference.cache
+F:\Projects\study\graph_scc\obj\Debug\graph_scc.exe
+F:\Projects\study\graph_scc\obj\Debug\graph_scc.pdb
+F:\Projects\study\graph_scc\bin\Debug\graph_scc.exe.config
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Data.dll
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.dll
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Graphviz.dll
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Serialization.dll
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.xml
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Data.xml
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Graphviz.xml
+F:\Projects\study\graph_scc\bin\Debug\QuickGraph.Serialization.xml

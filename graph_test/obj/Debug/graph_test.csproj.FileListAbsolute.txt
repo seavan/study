@@ -1,0 +1,6 @@
+F:\Projects\study\graph_test\bin\Debug\graph_test.exe.config
+F:\Projects\study\graph_test\bin\Debug\graph_test.exe
+F:\Projects\study\graph_test\bin\Debug\graph_test.pdb
+F:\Projects\study\graph_test\obj\Debug\graph_test.csprojResolveAssemblyReference.cache
+F:\Projects\study\graph_test\obj\Debug\graph_test.exe
+F:\Projects\study\graph_test\obj\Debug\graph_test.pdb

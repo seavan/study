@@ -1,0 +1,6 @@
+F:\Projects\study\quick_sort_test\obj\Debug\quick_sort_test.csprojResolveAssemblyReference.cache
+F:\Projects\study\quick_sort_test\bin\Debug\quick_sort_test.exe.config
+F:\Projects\study\quick_sort_test\bin\Debug\quick_sort_test.exe
+F:\Projects\study\quick_sort_test\bin\Debug\quick_sort_test.pdb
+F:\Projects\study\quick_sort_test\obj\Debug\quick_sort_test.exe
+F:\Projects\study\quick_sort_test\obj\Debug\quick_sort_test.pdb
